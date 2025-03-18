@@ -15,7 +15,7 @@ Before starting, make sure you have the following installed on your system:
 
 Clone this repository to your local machine using Git:
    ```bash
-   git clone https://github.com/GameAnalyst-Hamza/Decentralized-App.git
+   git clone https://github.com/GameAnalyst-Hamza/Decentralized-Web3.0-App.git
    ```
 
 Checkout to Project directory:
