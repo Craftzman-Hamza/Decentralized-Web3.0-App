@@ -33,4 +33,4 @@ Switch branch from main to Contract or D-Application
    ```
 
 > Note: 
-`Contract` and `D-Application` contains different reference code for practice checkout relative Readme.md file for whats covered on those branches
+`SmartContract` and `DApp` contains different reference code for practice checkout relative Readme.md file for whats covered on those branches
